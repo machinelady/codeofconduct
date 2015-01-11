@@ -9,14 +9,14 @@ codeofconduct
 2. Be welcoming. Presume the value of others. Everyone’s ideas, skills, and contributions have value. Don’t assume everyone has the same context, and encourage questions. Help provide a welcoming environment for people of all backgrounds and identities, and find ways for everyone to be productive with their skills, whether they are technical or nontechnical. Use language such as "yes/and", not "no/but". We want to make sure the entire community is well-represented in the planning, design and implementation of civic tech, so encourage participation from women, minorities and traditionally marginalised groups. Make sure to give people from marginalised groups a voice in discussions, especially if an issue being discussed mainly concerns their own group. Listen at least as much as you speak.
 3. Be considerate.  Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 4. Be careful in the words that you choose. We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
-- Violent threats or language directed against another person.
-- Discriminatory jokes and language.
-- Posting sexually explicit or violent material, or using such material in Code for Ireland events.
-- Posting (or threatening to post) other people's personally identifying information ("doxing").
-- Personal insults, especially those using racist or sexist terms.
-- Unwelcome sexual attention.
-- Advocating for, or encouraging, any of the above behavior.
-- Repeated harassment of others. In general, if someone asks you to stop, then stop.
+ - Violent threats or language directed against another person.
+ - Discriminatory jokes and language.
+ - Posting sexually explicit or violent material, or using such material in Code for Ireland events.
+ - Posting (or threatening to post) other people's personally identifying information ("doxing").
+ - Personal insults, especially those using racist or sexist terms.
+ - Unwelcome sexual attention.
+ - Advocating for, or encouraging, any of the above behavior.
+ - Repeated harassment of others. In general, if someone asks you to stop, then stop.
 5. When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Code for Ireland is no exception. It is important that we resolve disagreements and differing views constructively. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
 6. Focus on building tools for the community. At Code for Ireland, our goal is to create tools that are open and free technology for public use, and we prioritise activities that are for public use as opposed to private gain. We strive to maintain a respectful, participatory and productive relationship between community members, the local government staff and community partners. When making decisions about the tools we build, community groups and experts in the subject matter should be actively involved in the decision making process so we can be sure to create tools that actually suit the community's needs.
 
